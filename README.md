@@ -12,10 +12,13 @@
 ## 安装
 - **如果安装原美团考勤插件，请卸载掉，避免页面冲突**
 - 到[release页面](https://github.com/kaishuituan/meituan-kaoqin/releases)下载最新版本的`attendance.zip`文件到本地并解压到文件夹
-- 打开chrome浏览器，在地址栏中输入`chrome://extensions/`
-- 点击页面右上角的开发者模式按钮，打开开发者模式
+![RUNOOB 图标](1.png)
+- 打开chrome浏览器，在地址栏中输入`chrome://extensions/`,点击页面右上角的开发者模式按钮，打开开发者模式
+![RUNOOB 图标](2.png)
 - 点击加载已经解压扩展程序并选择文件夹
-
+![RUNOOB 图标](3.png)
+- 点击Chrome工具栏插件设置，将插件展示在工具栏
+![RUNOOB 图标](4.png)
 ## 说明
 - 本插件只记录个人打卡信息，由于统计不是实时和服务器通信，数据仅供参考，不具有官方性和法律性
 - **由于chrome官方市场能查询到个人信息，为了避免不必要的麻烦，本插件发布到该仓库，仅供离线安装使用**
