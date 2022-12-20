@@ -11,9 +11,11 @@
 
 ## 安装
 - **如果安装原美团考勤插件，请卸载掉，避免页面冲突**
-- 到[release页面](https://github.com/kaishuituan/meituan-kaoqin/releases)下载最新版本的`attendance.zip`文件到本地并解压到文件夹
+- 到[release页面](https://github.com/kaishuituan/meituan-kaoqin/releases)下载最新版本的`attendance.zip`文件到本地并解压到文件夹，**本地文件夹最好是不容易误删的地方，误删容易导致插件不可用**
 ![RUNOOB 图标](1.png)
-- 打开chrome浏览器，在地址栏中输入`chrome://extensions/`,点击页面右上角的开发者模式按钮，打开开发者模式
+- 打开Chrome插件设置
+![RUNOOB 图标](https://get.qiaobuqiao.com/wp-content/uploads/2020/12/2020121814481465.jpg)
+- 点击页面右上角的开发者模式按钮，打开开发者模式
 ![RUNOOB 图标](2.png)
 - 点击加载已经解压扩展程序并选择文件夹
 ![RUNOOB 图标](3.png)
